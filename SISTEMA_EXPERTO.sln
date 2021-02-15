@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISTEMA_EXPERTO", "SISTEMA_EXPERTO\SISTEMA_EXPERTO.csproj", "{BFA69192-B43E-482C-98D5-B47820C96D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA69192-B43E-482C-98D5-B47820C96D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA69192-B43E-482C-98D5-B47820C96D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA69192-B43E-482C-98D5-B47820C96D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA69192-B43E-482C-98D5-B47820C96D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B038639-CFFA-421F-B2AE-A2B98906D57B}
+	EndGlobalSection
+EndGlobal
